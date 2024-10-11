@@ -1,1 +1,1 @@
-# -Sales-report-on-Power-BI-
+This repository contains a Power BI file (Sales_Report.pbix) that presents an interactive dashboard for sales data analysis. The report allows users to explore key performance indicators (KPIs), identify sales trends, and drill into specific metrics. It provides valuable insights for sales teams, management, and stakeholders, helping them make data-driven decisions.
